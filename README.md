@@ -1,3 +1,3 @@
-# Reactive
+# Ding
 
-Light gunpowder on fire to blow it up, along with nearby gunpowder in a sick chain reaction!# Ding
+Sound effect when any projectile damages another entity (PocketMine-MP)
