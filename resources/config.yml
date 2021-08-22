@@ -2,3 +2,4 @@
 #Config defaults to XP bow hit sound from java
 sound: "random.orb"
 pitch: 0.5
+volume: 50
