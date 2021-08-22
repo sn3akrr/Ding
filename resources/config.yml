@@ -1,0 +1,4 @@
+#Ding by sn3akrr
+#Config defaults to XP bow hit sound from java
+sound: "random.orb"
+pitch: 0.5
