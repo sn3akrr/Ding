@@ -3,6 +3,6 @@ description: Play sound when bow hits
 author: sn3akrr
 version: 1.0.0
 api: [3.0.0]
-mcpe-protocol: [431, 440, 448]
+mcpe-protocol: [431, 440, 448, 465]
 main: sn3akrr\ding\Ding
 load: STARTUP
